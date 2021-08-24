@@ -12,3 +12,6 @@ h1, h2 {
 p, li {
     font-family: Arial;
 }
+p {
+    max-width: 500px;
+}
